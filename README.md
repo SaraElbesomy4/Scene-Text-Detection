@@ -5,7 +5,7 @@ Firstly, I implemented the paper on the dataset which the authors have used: [IC
 
 To know all the details in my implementation approach, you can read [Scene Text Detection.pdf](https://github.com/SaraElbesomy4/Scene-Text-Detection/blob/main/Scene%20Text%20Detection.pdf) 
 
-# To run the test code: 
+### To run the test code: 
 
 - Change the paths in the following files :
 
@@ -18,7 +18,7 @@ To know all the details in my implementation approach, you can read [Scene Text 
 - Make the new paths according to you pc.
 
 
-# The available notebooks:
+### The available notebooks:
 
 
 1.Scenc Text Detection - Test Pretrained Model on Test data.ipynb

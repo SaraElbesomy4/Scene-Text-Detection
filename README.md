@@ -21,11 +21,11 @@ To know all the details in my implementation approach, you can read [Scene Text 
 ### The available notebooks:
 
 
-1.Scenc Text Detection - Test Pretrained Model on Test data.ipynb
+1. Scenc Text Detection - Test Pretrained Model on Test data.ipynb
 
 use the pretrained model on Total text data.
 
-2.Testing CPTN Model on ICDAR 2015 Dataset.ipynb
+2. Testing CPTN Model on ICDAR 2015 Dataset.ipynb
 
 use the pretrained model on its original data (ICDAR 2015).
 .

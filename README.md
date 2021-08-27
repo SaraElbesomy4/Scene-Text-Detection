@@ -5,27 +5,28 @@ Firstly, I implemented the paper on the dataset which the authors have used: [IC
 
 To know all the details in my implementation approach, you can read [Scene Text Detection.pdf](https://github.com/SaraElbesomy4/Scene-Text-Detection/blob/main/Scene%20Text%20Detection.pdf) 
 
-To run the test code: 
+# To run the test code: 
 
-change the paths in the following files :
+- Change the paths in the following files :
 
 1. config.py
 
-2.Scene text Detection
+2. Scene text Detection
 
-3.Testing CTPN model on ICDAR 2015 dataset
+3. Testing CTPN model on ICDAR 2015 dataset
 
-make the new paths according to you pc.
-
-
-My written code:
+- Make the new paths according to you pc.
 
 
-1.Scene Text Detection
+# The available notebooks:
 
-use the pretrained model on my data.
 
-2.Testing CTPN model on ICDAR 2015 dataset
+1.Scenc Text Detection - Test Pretrained Model on Test data.ipynb
 
-use the pretrained model on its original data.
+use the pretrained model on Total text data.
+
+2.Testing CPTN Model on ICDAR 2015 Dataset.ipynb
+
+use the pretrained model on its original data (ICDAR 2015).
+.
 
